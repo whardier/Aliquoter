@@ -1,13 +1,18 @@
 Aliquoter
 =========
 
-Shapefile Aliqout Mogrifier
+Aliquot mogrifier utilizing the BLM PLSS method of quartering/halving sections.
 
 Purpose
 -------
 
 Given a quad of point pairs (long, lat) return a quad of point pairs for a 
 specific aliquot string.
+
+This code should work on any quad in any orientation as long as north, south, 
+east, west can be defined appropriately.
+
+This code uses specific points rather than a bounding box set to 0 degrees.
 
 Example
 -------
