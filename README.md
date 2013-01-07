@@ -12,7 +12,9 @@ specific aliquot string.
 Example
 -------
 
-Aliquot string: E2SW4SW4
+Aliquot string: **E2SW4SW4**
+
+Aliquot meaning: **The East half of the South West quarter of the South West quarter**
 
 This would mean that the quad would be split up into a South West square (SW4) 
 and then another South West square (SW4) and then the East half of that square 
